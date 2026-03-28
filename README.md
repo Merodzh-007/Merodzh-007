@@ -1,88 +1,47 @@
-# 👋 Привет, я Merodzh
+# Full-Stack Developer | Современный стек технологий
 
-🚀 **Full-Stack Developer** | Современный стек | Масштабируемые решения
-
----
-
-## 🧠 Обо мне
-
-Я full-stack разработчик, создающий **производительные, масштабируемые и удобные в поддержке веб-приложения**.
-
-Работаю по всему циклу разработки:
-
-* от UI/UX
-* до backend и DevOps
+Привет! 👋  
+Я full-stack разработчик с фокусом на создание масштабируемых, производительных и удобных в сопровождении веб-приложений.  
+Мой стек охватывает весь цикл разработки — от UI/UX до развертывания и мониторинга.
 
 ---
 
 ## 🛠 Технологический стек
 
-### 🎨 Frontend
-
-* React / Next.js
-* TypeScript
-* Tailwind CSS
-* React Query / Zustand / Redux Toolkit
+### 🎨 Frontend & UI
+- **Фреймворки:** React, Next.js  
+- **Управление состоянием:** Redux (Toolkit, Thunk), React Query, Mobx
+- **Маршрутизация:** React Router DOM  
+- **Валидация и формы:** Zod, React Hook Form  
+- **Стилизация:** Tailwind CSS  
+- **UI библиотеки:** Ant Design, Material-UI, PrimeReact  
 
 ### ⚙️ Backend
+- **Языки и среды:** Node.js, Express.js, Nest.js, Python, FastApi  
+- **Документирование API:** Swagger / OpenAPI  
 
-* Node.js (Express, NestJS)
-* Python (FastAPI)
+### 🗄 Базы данных и ORM/ODM
+- **Базы данных:** PostgreSQL, MongoDB, MySql, Redis  
+- **ORM/ODM:** Prisma, TypeORM, SQLAlchemy
 
-### 🗄 Базы данных
-
-* PostgreSQL
-* MongoDB
-* MySql
-* Redis
-
-### 🧩 ORM / Tools
-
-* Prisma
-* TypeORM
-
-### 🚀 DevOps & Infrastructure
-
-* Docker / Docker Compose
-* Nginx
-
-### 📡 Архитектура
-
-* REST API
-* Микросервисы
-* Rpc
+### 🚀 Инфраструктура и DevOps
+- **Контейнеризация:** Docker, Docker Compose  
+- **Веб-сервер:** Nginx  
+- **Системы контроля версий:** Git, GitHub  
 
 ---
 
 ## 🚀 Ключевые компетенции
 
-* Full-stack разработка (TS)
-* Архитектура приложений
-* Высоконагруженные системы
-* SPA / SSR (Next.js, Nuxt)
-* Контейнеризация (Docker)
-* Работа с SQL / NoSQL
+- Full-Stack разработка на JavaScript/TypeScript и Python  
+- Проектирование отзывчивых SPA и SSR-приложений (Next.js, Nuxt.js)  
+- Создание RESTful API, Rpc и микросервисных архитектур  
+- Работа с различными базами данных (реляционными, NoSQL, in-memory)  
+- Контейнеризация приложений и оркестрация с помощью Docker  
+- Архитектура и оптимизация приложений для высокой нагрузки  
 
 ---
 
 ## 📫 Контакты
 
-TG: [@Merodzh007](https://t.me/Merodzh007)
-
----
-
-## ⚡ GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Merodzh-007\&show_icons=true)
-
----
-
-## 🧩 Сейчас изучаю
-
-* Архитектуру high-load систем
-* Go + микросервисы
-* Продвинутый DevOps
-
----
-
-⭐ Если тебе интересны мои проекты — смотри репозитории ниже
+- **Telegram:** [Merodzh-007](https://t.me/Merodzh-007)
