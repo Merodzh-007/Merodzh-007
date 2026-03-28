@@ -44,4 +44,4 @@
 
 ## 📫 Контакты
 
-- **Telegram:** [Merodzh-007](https://t.me/Merodzh-007)
+- **Telegram:** [Merodzh-007](https://t.me/Merodzh007)
