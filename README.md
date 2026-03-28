@@ -20,9 +20,9 @@
 - **Языки и среды:** Node.js, Express.js, Nest.js, Python, FastApi  
 - **Документирование API:** Swagger / OpenAPI  
 
-### 🗄 Базы данных и ORM/ODM
+### 🗄 Базы данных и ORM
 - **Базы данных:** PostgreSQL, MongoDB, MySql, Redis  
-- **ORM/ODM:** Prisma, TypeORM, SQLAlchemy
+- **ORM:** Prisma, TypeORM, SQLAlchemy
 
 ### 🚀 Инфраструктура и DevOps
 - **Контейнеризация:** Docker, Docker Compose  
